@@ -2,7 +2,7 @@
   "name": "reactstrap-sidebare",
   "version": "0.1.0",
   "description": "A Simple SideBar Navigation written in React",
-  "author": "Boukrouh Bilal",
+
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
